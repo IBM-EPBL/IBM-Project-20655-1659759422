@@ -1,4 +1,4 @@
-# Click 👉[Here](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard%2BCreation%2FAssignment%2B2&action=view&mode=dashboard&ui_appbar=false&ui_navbar=false&shareMode=embedded&action=view&amp&CAMUsername=saravanakumar.cs23@gmail.com&CAMPassword=Ibmcareer123) for Interactive Dashboard
+# Click 👉[Here](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard%2BCreation%2FAssignment%2B2&action=view&mode=dashboard&ui_appbar=false&ui_navbar=false&shareMode=embedded&action=view&amp&CAMNamespace=bid&CAMUsername=saravanakumar.cs23@gmail.com&CAMPassword=Ibmcareer123) for Interactive Dashboard
 
 # Pharma Sales Dashboard
 
