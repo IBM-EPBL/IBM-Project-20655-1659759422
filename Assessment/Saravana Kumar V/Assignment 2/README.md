@@ -1,4 +1,4 @@
-# Click 👉[Here](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard%2BCreation%2FAssignment%2B2&action=view&mode=dashboard&ui_appbar=false&ui_navbar=false&shareMode=embedded&action=view&amp) for Interactive Dashboard
+# Click 👉[Here](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard%2BCreation%2FAssignment%2B2&action=view&mode=dashboard&ui_appbar=false&ui_navbar=false&shareMode=embedded&action=view&amp&CAMUsername=saravanakumar.cs23@gmail.com&CAMPassword=Ibmcareer123) for Interactive Dashboard
 
 # Pharma Sales Dashboard
 
@@ -30,12 +30,10 @@ Let’s understand the features of the dataset:
 8. Warehouse Location- A warehouse location is a region where companies storing goods.
 9. Actual-Actual sales for the product.
 10. C.sales-Customer Sales for the product.
-11. Inventory Stock: Inventory stock refers to the goods and materials that a business holds for
-the ultimate goal of resale.
+11. Inventory Stock: Inventory stock refers to the goods and materials that a business holds for the ultimate goal of resale.
 12. L.sales-Location Wise Sales for the product.
 13. M.sales-Monthly Sales for the product.
-14. Received Inventory- Creating a safe, fast, and organized process for handling received
-inventory. Accurately track your goods from when they arrive in your warehouse to when they
+14. Received Inventory- Creating a safe, fast, and organized process for handling received inventory. Accurately track your goods from when they arrive in your warehouse to when they
 are shipped to your customer.
 15. Rep. sales- Representative Sales for the product.
 16. Target- Target sales for the product.
