@@ -1,5 +1,7 @@
 # Click 👉[Here](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard%2BCreation%2FAssignment%2B2&action=view&mode=dashboard&CAMNamespace=bid&CAMUsername=saravanakumar.cs23@gmail.com&CAMPassword=Ibmcareer123&ui_appbar=false&ui_navbar=false) for Interactive Dashboard
 
+https://us3.ca.analytics.ibm.com/bi/?perspective=content&folder=.my_folders%2FDashboard%2BCreation
+
 # Pharma Sales Dashboard
 
 ### Description:- 
